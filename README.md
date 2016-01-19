@@ -10,16 +10,21 @@ what we've learned so far.
 
 ## Instructions
 
+This study is for your benefit. We do not expect a pull request. Do not fork and
+clone. Instead, follow these directions (in order!):
+
 1.  Install `javascripting`
 
     ```sh
     npm install -g javascripting
     ```
 
-1.  Make a directory to store your work and move into that directory.
+1.  Make a directory, `~/wdi/studies/javascripting` to store your work and move
+    into that directory.
 1.  Initialize a new git repository in that directory.
 1.  Create a README ([example](https://github.com/jrhorn424/javascripting))
 1.  Add and commit the README, create a remote on GitHub, and push.
+1.  Make and checkout a branch to work on.
 1.  Run `javascripting` from the command line and follow the instructions.
 1.  As you work, commit early and often.
 
