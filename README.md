@@ -19,12 +19,12 @@ clone. Instead, follow these directions (in order!):
     npm install -g javascripting
     ```
 
-1.  Make a directory, `~/wdi/studies/javascripting` to store your work and move
+1.  Make a directory, `~/wdi/study/javascripting` to store your work and move
     into that directory.
 1.  Initialize a new git repository in that directory.
 1.  Create a README ([example](https://github.com/jrhorn424/javascripting))
 1.  Add and commit the README, create a remote on GitHub, and push.
-1.  Make and checkout a branch to work on.
+1.  Make and checkout a `study` branch off from `master` to work on.
 1.  Run `javascripting` from the command line and follow the instructions.
 1.  As you work, commit early and often.
 
