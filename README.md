@@ -2,6 +2,8 @@
 
 # JavaScript: `javascripting` Review
 
+**This study should be completed over multiple evenings.**
+
 [nodeschool](http://nodeschool.io/) is an excellent free and open-source
 resource for learning Node. We will use nodeschool in the future to help us
 learn back-end web development using node. For now, we'll use the
