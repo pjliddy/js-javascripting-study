@@ -2,14 +2,13 @@
 
 # JavaScript: `javascripting` Review
 
-Use this template to structure your READMEs for studies. Remove text from this
-section, or use it to frame the study. Good framing answers the question "Why am
-I learning this?".
+**This study should be completed over multiple evenings.**
 
-Be sure to include a recent [`LICENSE`](LICENSE) and Markdown linter
-configuration ([`.remarkrc`](.remarkrc)). Also, include an appropriate
-`.gitignore`; these are usually found in specific technology templates, for
-example [js-template](https://www.github.com/ga-wdi-boston/js-template).
+[nodeschool](http://nodeschool.io/) is an excellent free and open-source
+resource for learning Node. We will use nodeschool in the future to help us
+learn back-end web development using node. For now, we'll use the
+[javascripting](https://github.com/sethvincent/javascripting) workshop to review
+what we've learned so far.
 
 ## Prerequisites
 
