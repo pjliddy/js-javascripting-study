@@ -2,39 +2,39 @@
 
 # JavaScript: `javascripting` Review
 
-**This study should be completed over multiple evenings.**
+Use this template to structure your READMEs for studies. Remove text from this
+section, or use it to frame the study. Good framing answers the question "Why am
+I learning this?".
 
-[nodeschool](http://nodeschool.io/) is an excellent free and open-source
-resource for learning Node. We will use nodeschool in the future to help us
-learn back-end web development using node. For now, we'll use the
-[javascripting](https://github.com/sethvincent/javascripting) workshop to review
-what we've learned so far.
+Be sure to include a recent [`LICENSE`](LICENSE) and Markdown linter
+configuration ([`.remarkrc`](.remarkrc)). Also, include an appropriate
+`.gitignore`; these are usually found in specific technology templates, for
+example [js-template](https://www.github.com/ga-wdi-boston/js-template).
+
+## Prerequisites
+
+-   [WDI Fundamentals](http://fundamentals.generalassemb.ly)
+
+## Objectives
+
+By the end of this, developers should be able to:
+
+-   Recognize common, fundamental development patterns in JavaScript.
+-   Work with primitives, reference types, control flow, callbacks, and array
+    methods.
 
 ## Instructions
 
-This study is for your benefit. We do not expect a pull request. Do not fork and
-clone. Instead, follow these directions (in order!):
+1.  Fork and clone this repository.
+1.  Change into the new directory.
+1.  Create and checkout a new branch, named `response`.
+1.  Follow the directions given in [`study.md`](study.md).
+1.  When finished, push to your fork and submit a pull request.
 
-1.  Install `javascripting`
-
-    ```sh
-    npm install -g javascripting
-    ```
-
-1.  Make a directory, `~/wdi/study/javascripting` to store your work and move
-    into that directory.
-1.  Initialize a new git repository in that directory.
-1.  Create a README ([example](https://github.com/jrhorn424/javascripting))
-1.  Add and commit the README, create a remote on GitHub, and push.
-1.  Make and checkout a `study` branch off from `master` to work on.
-1.  Run `javascripting` from the command line and follow the instructions.
-1.  As you work, commit early and often.
-
-Use commit messages as your learning journal, making notes of challenges and
-what you learned by completing each exercise
-([example](https://github.com/jrhorn424/learnyounode/commit/5db673a16d4af82d3c5a80240edeb93b0e4dbd0c)).
-Then, push the repository to GitHub so future employers can get an idea of your
-learning process (not to mention your tenacity!).
+You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
+related to [forking,
+cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
+requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## Additional Resources
 
