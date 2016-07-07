@@ -18,7 +18,12 @@ clone. Instead, follow these directions (in order!):
 1.  Run `javascripting` from the command line and follow the instructions.
 1.  As you work, commit early and often.
 
-Use commit messages as your learning journal, making notes of challenges and
+## Working Instructions
+
+-   Work in `strict` mode to allow use of `let` and `const` (javascripting's
+instructions will instruct you to use `var`).
+
+-   Use commit messages as your learning journal, making notes of challenges and
 what you learned by completing each exercise
 ([example](https://github.com/jrhorn424/learnyounode/commit/5db673a16d4af82d3c5a80240edeb93b0e4dbd0c)).
 Then, push the repository to GitHub so future employers can get an idea of your
@@ -26,7 +31,7 @@ learning process (not to mention your tenacity!).
 
 ## Response
 
-As noted previously, no response is required for this study. Complete the
+As noted previously, **no response is required** for this study. Complete the
 workshop at your own pace as a review tool for fundamental JavaScript.
 
 If you wish, you may open an issue. Include any questions you still have, or any
