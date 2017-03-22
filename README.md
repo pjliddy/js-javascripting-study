@@ -35,6 +35,15 @@ related to [forking,
 cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
 requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
 
+## Tasks
+
+Developers should run these often!
+
+-   `grunt nag` or just `grunt`: runs code quality analysis tools on your code
+    and complains.
+-   `grunt reformat`: reformats all your code in a standard style.
+-   `grunt test`: runs any automated tests; may depend on `grunt build`.
+
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
