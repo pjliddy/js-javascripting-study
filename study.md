@@ -19,13 +19,13 @@
 -   Push the changes to GitHub so that future employers can get an idea of what
     your learning process (not to mention your tenacity!) is like.
 
-## Response
+## Optional Response
 
 As noted previously, **no response is required** for this study. Complete the
-workshop at your own pace as a review tool for fundamental JavaScript.
+workshop at your own pace as a review tool for JavaScript fundamentals.
 
-If you wish, you may open an issue. Include any questions you still have, or any
-topic you want to explore further in a 1on1 meeting.
-
-If you do this, be sure to schedule your 1on1 with a consultant and link to your
-response issue, which will serve as an agenda for the meeting.
+If you wish, then you may open an issue and include any questions that you still
+have about JavaScript or any other topic that you want to explore further in a
+one-on-one meeting. If you do this, then be sure to schedule your one-on-one
+meeting with a consultant and link to your response issue, which will serve as
+an agenda for the meeting.
