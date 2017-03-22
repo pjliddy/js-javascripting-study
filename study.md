@@ -1,4 +1,4 @@
-# JavaScript: `javascripting` Review
+# JavaScript: `javascripting` Study
 
 This study is for your benefit. We do not expect a pull request. Do not fork and
 clone. Instead, follow these directions (in order!):
