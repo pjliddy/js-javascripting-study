@@ -4,9 +4,9 @@
 
 **This study should be completed over multiple evenings.**
 
-[nodeschool](http://nodeschool.io/) is an excellent free and open-source
-resource for learning Node. We will use nodeschool in the future to help us
-learn back-end web development using node. For now, we'll use the
+[NodeSchool](https://nodeschool.io) is an excellent free and open-source
+resource for learning Node.js. We will use NodeSchool in the future to help us
+learn to learn how to develop APIs using Node.js. For now, we'll use the
 [javascripting](https://github.com/sethvincent/javascripting) workshop to review
 what we've learned so far.
 
