@@ -9,14 +9,15 @@
 
 ## Working Instructions
 
--   Work in `strict` mode to allow use of `let` and `const` (javascripting's
-instructions will instruct you to use `var`).
-
--   Use commit messages as your learning journal, making notes of challenges and
-what you learned by completing each exercise
-([example](https://github.com/jrhorn424/learnyounode/commit/5db673a16d4af82d3c5a80240edeb93b0e4dbd0c)).
-Then, push the repository to GitHub so future employers can get an idea of your
-learning process (not to mention your tenacity!).
+-   Work in `strict` mode to allow use of `let` and `const` (`javascripting`'s
+    instructions will instruct you to use `var`).
+-   Use commit messages as your learning journal by making notes of challenges
+    and what you have learned after completing each exercise. Try to write
+    your commit messages with a subject line that is less than or equal to 50
+    characters, a blank line, and then a body that is wrapped at 72 characters
+    per line. ([example](https://github.com/jrhorn424/learnyounode/commit/5db673a16d4af82d3c5a80240edeb93b0e4dbd0c)).
+-   Push the changes to GitHub so that future employers can get an idea of what
+    your learning process (not to mention your tenacity!) is like.
 
 ## Response
 
