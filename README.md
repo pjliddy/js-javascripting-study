@@ -1,12 +1,12 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# JavaScript: `javascripting` Review
+# JavaScript: `javascripting` Study
 
 **This study should be completed over multiple evenings.**
 
-[nodeschool](http://nodeschool.io/) is an excellent free and open-source
-resource for learning Node. We will use nodeschool in the future to help us
-learn back-end web development using node. For now, we'll use the
+[NodeSchool](https://nodeschool.io) is an excellent free and open-source
+resource for learning Node.js. We will use NodeSchool in the future to help us
+learn to learn how to develop APIs using Node.js. For now, we'll use the
 [javascripting](https://github.com/sethvincent/javascripting) workshop to review
 what we've learned so far.
 
@@ -34,6 +34,15 @@ You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
 related to [forking,
 cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
 requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
+
+## Tasks
+
+Developers should run these often!
+
+-   `grunt nag` or just `grunt`: runs code quality analysis tools on your code
+    and complains.
+-   `grunt reformat`: reformats all your code in a standard style.
+-   `grunt test`: runs any automated tests; may depend on `grunt build`.
 
 ## [License](LICENSE)
 
