@@ -1,3 +1,5 @@
+'use strict'
+
 const eat = function(food) {
   return food + ' tasted really good.'
 }

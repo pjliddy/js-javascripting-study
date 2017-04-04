@@ -1,3 +1,5 @@
+'use strict'
+
 const math = function (a, b, c) {
   return (b * c + a)
 }
